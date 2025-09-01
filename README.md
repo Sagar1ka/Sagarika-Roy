@@ -13,15 +13,15 @@ My expertise includes:
 •	📊 Insurance & Finance – agriculture reinsurance, parametric (index-based) solutions, ESG integration, and sustainability reporting
 •	🛰️ Geospatial Data & Remote Sensing – Earth observation, geoinformatics, and applied AI for climate
 
-🛰️ Remote Sensing Data I Work With
-•	Satellite Data: Landsat, MODIS, AVHRR, VIIRS, SRTM, GRACE, Sentinel-1, Sentinel-2, Sentinel-5
+🛰️ Remote Sensing Data I Work With <br/>
+•	Satellite Data: Landsat, MODIS, AVHRR, VIIRS, SRTM, GRACE, Sentinel-1, Sentinel-2, Sentinel-5 <br/>
 •	Applications: Hydrology, agriculture, biodiversity, and climate risk modeling.
 
 
-🛠️ Tools & Technologies
-•	**Programming & Analysis**: Python, R, MATLAB
-•	**GIS & Geospatial Tools**: Google Earth Engine, QGIS, ArcGIS, GDAL
-•	**Other Areas**: Machine learning, climate risk analytics, ESG & sustainability frameworks
+🛠️ Tools & Technologies <br/>
+•	**Programming & Analysis**: Python, R, MATLAB <br/>
+•	**GIS & Geospatial Tools**: Google Earth Engine, QGIS, ArcGIS, GDAL <br/>
+•	**Other Areas**: Machine learning, climate risk analytics, ESG & sustainability frameworks <br/>
 
 
 <p align="left">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
