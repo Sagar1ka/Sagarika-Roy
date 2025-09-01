@@ -1,5 +1,5 @@
 # Sagarika Roy
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/sagarikaroy/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/sagarikaroy/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-orange)](https://www.researchgate.net/profile/Sagarika-Roy?ev=hdr_xprf)
 [![GoogleScholar](https://img.shields.io/badge/GoogleScholar-green)](https://scholar.google.com/citations?user=yR979sgAAAAJ&hl=en)
 
