@@ -3,7 +3,9 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-orange)](https://www.researchgate.net/profile/Sagarika-Roy?ev=hdr_xprf)
 [![GoogleScholar](https://img.shields.io/badge/GoogleScholar-green)](https://scholar.google.com/citations?user=yR979sgAAAAJ&hl=en)
 
-👋 About Me
+[![banner](https://media.licdn.com/dms/image/v2/D5616AQGiGBj10PK10Q/profile-displaybackgroundimage-shrink_350_1400/B56ZdVsc5UG0AY-/0/1749489407391?e=1759363200&v=beta&t=XTbPNgskPBYx-T2IHxvgNE_WdSAkKrMD6HylJnDVUEw)](https://Sagar1ka.github.io/)
+
+👋 **About Me**: 
 I am a Remote Sensing Professional & Data Scientist with over a decade of hands-on experience spanning research, climate-tech startups, academia, externally funded projects (as Project Investigator), and the insurance sector. My background as a geoscientist has allowed me to work at the intersection of hydrology, geospatial intelligence, remote sensing, and climate applications, with a strong focus on climate risk and catastrophic risk modeling.
 My expertise includes:
 •	🌍 Climate & Disaster Risk – risk modeling, early warning systems, and emerging risk identification
@@ -35,13 +37,13 @@ My expertise includes:
 <br>
 
 <h3 align="left">My GitHub Stats:</h3> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinkychow1010&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact" alt="" width="400" height="150"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pinkychow1010&size_weight=0&count_weight=1&show_icons=true&locale=en&hide=contribs,prs" alt="" width="400"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sagar1ka&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact" alt="" width="400" height="150"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sagar1ka&size_weight=0&count_weight=1&show_icons=true&locale=en&hide=contribs,prs" alt="" width="400"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinkychow1010&size_weight=0&count_weight=1" alt="" width="400"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar1ka&size_weight=0&count_weight=1" alt="" width="400"/></p>
 
 
 
 <!--
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinkychow1010&size_weight=0&count_weight=1" alt="" width="400"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar1ka&size_weight=0&count_weight=1" alt="" width="400"/></p>
 
